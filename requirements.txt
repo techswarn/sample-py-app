@@ -1,1 +1,2 @@
 async-timeout==4.0.2
+pywin32==305
